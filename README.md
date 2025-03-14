@@ -31,12 +31,12 @@ Throughout this cohort you'll find many project tracks and use cases, so we enco
 <br> <br>
 
 > [!NOTE]
+> By engaging with these projects, you're taking a significant step toward practical mastery in your chosen field. Happy exploring!​
 >
-> While GitHub Codespaces provides a quick and easy starting point you can also run the code samples [locally](./setup/README.md#option-2--running-the-app-locally).
 >
 > 
 >  
 
-By engaging with these projects, you're taking a significant step toward practical mastery in your chosen field. Happy exploring!​
+
 
 
