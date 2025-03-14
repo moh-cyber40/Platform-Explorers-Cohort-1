@@ -1,16 +1,16 @@
-Technical Use Case: Device Management and Zero Trust Strategy 
+# Device Management and Zero Trust Strategy 
 
-Overview 
+## Overview 
 
 Contoso, an organization with 500 users located in South Africa and East Europe, has recently purchased Microsoft 365 E5 licenses. They aim to manage their Windows and iOS company-assigned devices, protect these devices using Microsoft Defender for Endpoint, and implement a Zero Trust strategy with Multi-Factor Authentication (MFA) to ensure only compliant endpoints can access Microsoft 365 applications. 
 
-Device Configuration and Compliance Policies 
+## Device Configuration and Compliance Policies 
 
 To manage user devices effectively, Contoso wishes to implement the following device configuration and compliance policies using Microsoft Intune: 
 
-Device Compliance Policies: 
+### Device Compliance Policies: 
 
-Windows Devices: 
+#### Windows Devices: 
 
 Require BitLocker encryption. 
 
@@ -24,7 +24,7 @@ Minimum: Windows 10 22H2 (Build 19045.5608)
 
 Maximum: Windows 11 24H2 (Build 26100.3476) 
 
-iOS Devices: 
+#### iOS Devices: 
 
 Enforce device passcode. 
 
@@ -36,7 +36,8 @@ Minimum: iOS 16.1.1
 
 Maximum: iOS 18.1.1 
 
-Device Configuration Policies: 
+
+### Device Configuration Policies: 
 
 Windows Devices: 
 
@@ -48,11 +49,11 @@ iOS Devices:
 
 Configure email profiles. 
 
-Microsoft Defender for Endpoint Implementations 
+## Microsoft Defender for Endpoint Implementations 
 
 To protect Windows and iOS devices, Contoso can configure the following implementations using Microsoft Defender for Endpoint: 
 
-Windows Devices: 
+### Windows Devices: 
 
 Enable real-time protection. 
 
@@ -64,7 +65,7 @@ Enable endpoint detection and response (EDR).
 
 Configure automated investigation and response (AIR) capabilities. 
 
-iOS Devices: 
+### iOS Devices: 
 
 Enable web protection to guard against phishing and unsafe network connections. 
 
@@ -74,11 +75,11 @@ Set up jailbreak detection.
 
 Integrate with Intune for device compliance and conditional access policies. 
 
-Sample Policies and Screenshots 
+## Sample Policies and Screenshots 
 
 To provide a comprehensive guide, include sample policies and screenshots of the configuration steps. This will help Contoso's IT team understand the implementation process and ensure a smooth rollout. 
 
-Report of Research and Findings 
+## Report of Research and Findings 
 
 Prepare a detailed report summarizing the research and findings, including the benefits of the proposed policies, potential challenges, and recommendations for successful implementation. This report should serve as a reference for Contoso's IT team and stakeholders. 
 
