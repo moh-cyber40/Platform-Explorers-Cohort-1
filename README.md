@@ -7,14 +7,15 @@ Platform Explorers is an initiative aimed at bridging the gap between theoretica
 
 Repository Structure:
 1. Cybersecurity:  Use cases related to network security, ethical hacking, and information assurance.​
-2. Cloud Computing Projects: Scenarios involving front-end and back-end development, including frameworks and best practices.​
-3. Cybersecurity Projects: Use cases related to network security, ethical hacking, and information assurance.​
-4. Power Platform Projects: 
-5. Microsoft 365 Administration: imulations of project planning, execution, and evaluation.
+2. Cloud Computing Projects: This challenges mentees to design and implement cost-effective, secure, and well-governed cloud solutions within a limited budget, requiring them to discover and apply the right Azure services while managing resources efficiently.
+3. Power Platform Projects: 
+4. Microsoft 365 Administration: 
+5. Product Management:  imulations of project planning, execution, and evaluation.
 
 ## Getting Started
  
 Throughout this cohort you'll find many project tracks and use cases, so we encourage you to fork this repository:
+ [![Fork](https://img.shields.io/badge/Fork-Repository-blue?style=flat-square)](https://github.com/PlatformExplorers/Platform-Explorers-Cohort-1/fork)
 
 
 
