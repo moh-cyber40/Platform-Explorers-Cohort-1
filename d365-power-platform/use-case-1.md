@@ -1,10 +1,10 @@
 # Choosing the Right Application
 
 ## Client Dilemma: 
-They company is unsure. They don’t know whether to use Power Apps, Power Automate, Power BI, or Dataverse. The CEO is asking for a recommendation—but they need proof to justify the decision.
+They company is unsure. They don’t know whether to use Power Platform or other applications. The CEO is asking for a recommendation but they need proof to justify the decision of using Power Platform.
 
 ## 🔍 Your Task: 
-Analyze the project task in and determine the best solution.
+Analyze the project task and determine the best solution.
 
 
 | Requirement |
