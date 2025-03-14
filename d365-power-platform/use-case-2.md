@@ -6,7 +6,7 @@
 
 Identify  Tables 
 
-Each Order contains multiple Products (Many-to-Many relationship resolved via OrderDetails).
+Identify the columns and their data types
 
 
  ## Question:
