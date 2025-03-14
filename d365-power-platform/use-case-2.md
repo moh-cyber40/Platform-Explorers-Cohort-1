@@ -11,3 +11,6 @@ Identify the columns and their data types
 
  ## Question:
  Design an Entity Relationship Diagram (ERD) connecting these tables.
+
+ ## Submission of the Task
+ Create a presentation slide and add the ERD Diagram
