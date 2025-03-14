@@ -7,12 +7,13 @@ They company is unsure. They don’t know whether to use Power Apps, Power Autom
 Analyze the project task in and determine the best solution.
 
 
-| Requirement | Second Header |
-| ------------- | ------------- |
-| Need a custom application for order and employee request management  | Power Apps  |
-| Need automated workflows for approvals, notifications, and data syncing |Power Automate  |
-| Need advanced reporting and data visualization |Power BI  |
-| Need a structured, secure database |? |
+| Requirement |
+| ------------- |
+| Need a custom application for order and employee request management  |
+| Need automated workflows for approvals, notifications, and data syncing |
+| Need advanced reporting and data visualization |
+| Need a structured, secure database |
+| Need a secured, standard process |
 
 
 ## Question: 
