@@ -6,25 +6,14 @@ They company is unsure. They don’t know whether to use Power Apps, Power Autom
 ## 🔍 Your Task: 
 Analyze the project task in and determine the best solution.
 
-Requirement
 
-Possible Solutions
+| Requirement | Second Header |
+| ------------- | ------------- |
+| Need a custom application for order and employee request management  | Power Apps  |
+| Need automated workflows for approvals, notifications, and data syncing |Power Automate  |
+| Need advanced reporting and data visualization |Power BI  |
+| Need a structured, secure database |? |
 
-Need a custom application for order and employee request management
 
-Power Apps
-
-Need automated workflows for approvals, notifications, and data syncing
-
-Power Automate
-
-Need advanced reporting and data visualization
-
-Power BI
-
-Need a structured, secure database
-
-Dataverse
-
-##❓ Question: 
+## Question: 
 Based on the company needs, which tools should be used? Justify your decision with examples of how they will be implemented.
