@@ -9,7 +9,7 @@ Repository Structure:
 1. Cybersecurity:  Use cases related to network security, ethical hacking, and information assurance.​
 2. Cloud Computing Projects: This challenges mentees to design and implement cost-effective, secure, and well-governed cloud solutions within a limited budget, requiring them to discover and apply the right Azure services while managing resources efficiently.
 3. Power Platform Projects: 
-4. Microsoft 365 Administration: 
+4. Microsoft 365 Administration: Users will learn to enhance security, compliance, and collaboration in Exchange Online, SharePoint Online, and Microsoft Teams. Thereby helping organizations secure communications, streamline workflows, and meet compliance requirements.
 5. Product Management:  imulations of project planning, execution, and evaluation.
 
 ## Getting Started
