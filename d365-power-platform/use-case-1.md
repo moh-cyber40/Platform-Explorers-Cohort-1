@@ -1,9 +1,10 @@
-# Choosing the Right Application (Mystery Box Challenge)
+# Choosing the Right Application
 
 ## Client Dilemma: 
-They company is confused! They don’t know whether to use Power Apps, Power Automate, Power BI, or Dataverse. The CEO is asking for a recommendation—but they need proof to justify the decision.
+They company is unsure. They don’t know whether to use Power Apps, Power Automate, Power BI, or Dataverse. The CEO is asking for a recommendation—but they need proof to justify the decision.
 
-## 🔍 Your Task: Analyze the following clues and determine the best solution.
+## 🔍 Your Task: 
+Analyze the project task in and determine the best solution.
 
 Requirement
 
