@@ -1,6 +1,6 @@
 # Welcome to Platform Explorers Cohort 1
 
-Welcome to the Platform Explorers repository! This repository is dedicated to providing a collection of project use cases tailored to various career paths, enabling individuals to engage in hands-on learning and skill development.
+Welcome to the Platform Explorers repository! This repository offers a collection of project use cases designed for members of the Platform Explorers cohort. Tailored to various career paths, these projects provide opportunities for hands-on learning and skill development.
 <br> <br>
 
 ## About Platform Explorers
@@ -28,7 +28,7 @@ Throughout this cohort you'll find many project tracks and use cases, so we enco
 2. Review the Project Materials: Each project folder contains all necessary information to get started.
 
 
-
+<br> <br>
 
 > [!NOTE]
 >
