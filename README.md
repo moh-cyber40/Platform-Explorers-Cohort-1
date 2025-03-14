@@ -1,16 +1,23 @@
 # Welcome to Platform Explorers Cohort 1
 
 Welcome to the Platform Explorers repository! This repository is dedicated to providing a collection of project use cases tailored to various career paths, enabling individuals to engage in hands-on learning and skill development.
+<br> <br>
 
 ## About Platform Explorers
 Platform Explorers is an initiative aimed at bridging the gap between theoretical knowledge and practical knowledge. By offering curated project scenarios across multiple disciplines, we empower learners to explore, experiment, and enhance their competencies in real-world contexts.​
+<br> <br>
 
-Repository Structure:
-> 1. Cybersecurity:  Use cases related to network security, ethical hacking, and information assurance.​
-> 2. Cloud Computing Projects: This challenges mentees to design and implement cost-effective, secure, and well-governed cloud solutions within a limited budget, requiring them to discover and apply the right Azure services while managing resources efficiently.
-> 3. Power Platform Projects: 
-> 4. Microsoft 365 Administration: Users will learn to enhance security, compliance, and collaboration in Exchange Online, SharePoint Online, and Microsoft Teams. Thereby helping organizations secure communications, streamline workflows, and meet compliance requirements.
-> 5. Product Management:  imulations of project planning, execution, and evaluation.
+### Repository Structure:
+
+| Porject Track | Description |
+|----------|-------------|
+| **Cybersecurity** | Use cases related to network security, ethical hacking, and information assurance. |
+| **Cloud Computing Projects** | Challenges mentees to design and implement cost-effective, secure, and well-governed cloud solutions within a limited budget, requiring them to discover and apply the right Azure services while managing resources efficiently. |
+| **Power Platform Projects** | Hands-on projects for automating processes and building low-code applications. |
+| **Microsoft 365 Administration** | Users will learn to enhance security, compliance, and collaboration in Exchange Online, SharePoint Online, and Microsoft Teams, helping organizations secure communications, streamline workflows, and meet compliance requirements. |
+| **Product Management** | Simulations of project planning, execution, and evaluation. |
+
+<br> <br>
 
 ## Getting Started
  
