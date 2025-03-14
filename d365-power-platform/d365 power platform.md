@@ -1,6 +1,6 @@
 # Power Platform Project Task: Business Process Automation
  
- A mid-sized manufacturing company, is facing inefficiencies in handling customer orders, inventory management, and employee requests. The current processes involve multiple spreadsheets, emails, and manual interventions, leading to errors, delays, and poor visibility of operations.
+ A mid-sized manufacturing company, is facing inefficiencies in handling customer orders and inventory management. The current processes involve multiple spreadsheets, emails, and manual interventions, leading to errors, delays, and poor visibility of operations.
 
 To resolve these issues, the company is considering Microsoft Power Platform to automate workflows, centralize data, and improve operational efficiency.
 
@@ -27,8 +27,6 @@ John Smith (Operations Manager) – Needs an automated order tracking system.
 Sarah Johnson (Customer Service Rep) – Wants a centralized system for customer inquiries.
 
 Michael Brown (IT Admin) – Focused on security and governance.
-
-Emily Davis (HR Manager) – Needs a system for managing employee requests.
 
 David Lee (Finance Controller) – Requires financial tracking for order payments.
 
