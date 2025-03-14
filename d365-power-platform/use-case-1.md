@@ -9,9 +9,9 @@ Analyze the project task and determine the best solution.
 
 | Requirement |
 | ------------- |
-| Need a custom application for order and employee request management  |
+| Need a solution for customer order and employee request management  |
 | Need automated workflows for approvals, notifications, and data syncing |
-| Need advanced reporting and data visualization |
+| Need reporting and data visualization |
 | Need a structured, secure database |
 | Need a secured, standard process |
 
