@@ -1,2 +1,2 @@
-# General Instructions for Mentees
+# General Instructions
 
