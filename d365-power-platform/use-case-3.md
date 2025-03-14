@@ -1,6 +1,6 @@
-# Data Protection Puzzle
+# Data Protection
 
-Client Problem: The IT team needs to enforce security policies for Power Platform.
+The IT team needs to enforce security policies for Power Platform.
 
 ## 🔍 Your Task:
 
