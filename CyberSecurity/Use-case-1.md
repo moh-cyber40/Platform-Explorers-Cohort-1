@@ -1,5 +1,5 @@
-Mitigating Fraudulent Emails at Contoso 
-Company Overview: 
+#Mitigating Fraudulent Emails at Contoso 
+##Company Overview: 
 Contoso is a mid-sized organization with 300 users located in the United States and Western Europe. The company has been experiencing a significant challenge with fraudulent emails being delivered to end users' mailboxes, posing a risk of phishing attacks and potential data breaches. 
 Problem Statement:  
 Contoso's email system is currently vulnerable to fraudulent emails, which are being delivered to end users' mailboxes. This issue has raised concerns about the security of sensitive information and the potential for phishing attacks. The company needs to implement a robust solution to mitigate this risk and protect its users, especially VIP users such as the CEO, CFO, and CISO. 
