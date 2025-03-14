@@ -9,7 +9,7 @@ Platform Explorers is an initiative aimed at bridging the gap between theoretica
 
 ### Repository Structure:
 
-| Porject Track | Description |
+| Project Track | Description |
 |----------|-------------|
 | **Cybersecurity** | Use cases related to network security, ethical hacking, and information assurance. |
 | **Cloud Computing Projects** | Challenges mentees to design and implement cost-effective, secure, and well-governed cloud solutions within a limited budget, requiring them to discover and apply the right Azure services while managing resources efficiently. |
@@ -22,7 +22,10 @@ Platform Explorers is an initiative aimed at bridging the gap between theoretica
 ## Getting Started
  
 Throughout this cohort you'll find many project tracks and use cases, so we encourage you to fork this repository:
+
+1. Select the **Fork** button in the upper right-hand corner of the repository or select this button:
  [![Fork](https://img.shields.io/badge/Fork-Repository-blue?style=flat-square)](https://github.com/PlatformExplorers/Platform-Explorers-Cohort-1/fork)
+2. Review the Project Materials: Each project folder contains all necessary information to get started.
 
 
 
