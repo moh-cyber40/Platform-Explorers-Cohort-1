@@ -11,7 +11,7 @@ Platform Explorers is an initiative aimed at bridging the gap between theoretica
 
 | Project Track | Description |
 |----------|-------------|
-| **Cybersecurity** | Use cases related to network security, ethical hacking, and information assurance. |
+| **Cybersecurity** | The cybersecurity use cases present various scenarios to mentees which challenge them to utilize solutions like Defender XDR, Intune, Microsoft Purview and Entra ID to solve business problems related to email security, information protection, device and application protection. |
 | **Cloud Computing Projects** | Challenges mentees to design and implement cost-effective, secure, and well-governed cloud solutions within a limited budget, requiring them to discover and apply the right Azure services while managing resources efficiently. |
 | **Power Platform Projects** | Hands-on projects for automating processes and building low-code applications. |
 | **Microsoft 365 Administration** | Users will learn to enhance security, compliance, and collaboration in Exchange Online, SharePoint Online, and Microsoft Teams, helping organizations secure communications, streamline workflows, and meet compliance requirements. |
