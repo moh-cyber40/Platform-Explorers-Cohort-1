@@ -15,7 +15,7 @@ Platform Explorers is an initiative aimed at bridging the gap between theoretica
 | **Cloud Computing Projects** | Challenges mentees to design and implement cost-effective, secure, and well-governed cloud solutions within a limited budget, requiring them to discover and apply the right Azure services while managing resources efficiently. |
 | **Power Platform Projects** | Hands-on projects for automating processes and building low-code applications. |
 | **Microsoft 365 Administration** | Users will learn to enhance security, compliance, and collaboration in Exchange Online, SharePoint Online, and Microsoft Teams, helping organizations secure communications, streamline workflows, and meet compliance requirements. |
-| **Product Management** | Simulations of project planning, execution, and evaluation. |
+| **Product Management** | Mentees will learn to define problems, prioritize features, create Product Requirement Documents (PRDs), and collaborate with teams to build and improve products. They will work on real-world scenarios, developing both new products and enhancing existing ones. |
 
 <br> <br>
 
