@@ -31,11 +31,11 @@ Throughout this cohort you'll find many project tracks and use cases, so we enco
 <br> <br>
 
 ## How to Submit Your Project Use Case:
-**Create a GitHub Repository** – Watch this video for guidance.
-**Describe the Problem** – Explain the issue or use case you addressed.
-**Share Your Solution**– Detail how you solved the problem in your GitHub repository.
-**Include Visuals** – Add screenshots or videos of your process.
-**Promote Your Work** – Post your use case on LinkedIn and Twitter, explaining the problem and your solution. Use relevant hashtags (#PlatformExplorers #PublicLearning #Recruiter, plus tech and career-specific tags). Tag all cohort coaches to maximize reach.
+1. **Create a GitHub Repository** – Watch this video for guidance.
+2. **Describe the Problem** – Explain the issue or use case you addressed.
+3. **Share Your Solution**– Detail how you solved the problem in your GitHub repository.
+4. **Include Visuals** – Add screenshots or videos of your process.
+5. **Promote Your Work** – Post your use case on LinkedIn and Twitter, explaining the problem and your solution. Use relevant hashtags (#PlatformExplorers #PublicLearning #Recruiter, plus tech and career-specific tags). Tag all cohort coaches to maximize reach.
 
 > [!NOTE]
 > By engaging with these projects, you're taking a significant step toward practical mastery in your chosen field. Happy exploring!​
