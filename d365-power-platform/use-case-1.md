@@ -17,12 +17,13 @@ Analyze the project task and determine the best solution.
 
 
 ## Question: 
-Based on the company needs, which tools should be used? Justify your decision with examples of how they will be implemented.
+Based on the company needs:
+1. which tools should be used?
+2. Justify your decision with examples of how they will be implemented.
 
-## Implementation
-Create a Presentation Slide explaining this 
+
 
 ## Submission of the task
-Give a Presentation on the next call 
-Complete use case 1 and use case 2
-Submit online by using the hashtags and tagging Platform Explorers and the coach
+1. Create a presentation slide and give a Presentation on the next call 
+2. Week 1: Complete use case 1 and use case 2
+3. Submit online by using the hashtags and tagging Platform Explorers and the coach
