@@ -37,6 +37,25 @@ I recommend Micorsoft Defender for Office Plan 2 because it offers comprehensive
      <img width="946" alt="attachment policy done" src="https://github.com/user-attachments/assets/f773577d-128b-4907-bdb7-bf26c7a731e1" />
      <img width="947" alt="safe attachement done" src="https://github.com/user-attachments/assets/a501b421-d8d5-4bbb-944b-8d71a2612d60" />
 
+2. Enable Safe Links:
+   - In the Microsoft 365 Defender portal, go to Policies & rules > Threat policies > Safe Links
+     <img width="959" alt="safe links" src="https://github.com/user-attachments/assets/78a42c3a-118a-4c4e-8073-0b4ad7944e39" />
+   - Create a new policy, enable URL scanning, and apply it to all users
+     <img width="959" alt="safe links 2" src="https://github.com/user-attachments/assets/20125b47-393a-4d5b-866e-e3b942580a9d" />
+     <img width="959" alt="safe links 3" src="https://github.com/user-attachments/assets/8cb06c69-532b-47f0-a846-78e156fad38a" />
+     <img width="959" alt="safe links 4" src="https://github.com/user-attachments/assets/0ec160ba-b011-4e35-9b59-eec00341a86f" />
+     <img width="953" alt="safe links 5" src="https://github.com/user-attachments/assets/993e541a-09e7-403c-afca-dcdca963be58" />
+   - Save and apply policy
+     <img width="959" alt="safe link 6" src="https://github.com/user-attachments/assets/9bc3037f-5620-498d-a345-56335b0047af" />
+     <img width="959" alt="safe link 7" src="https://github.com/user-attachments/assets/0708b835-78d8-4bf9-84a3-f4cc4ab460a8" />
+
+
+
+
+
+
+
+
 
 
 
@@ -45,4 +64,4 @@ I recommend Micorsoft Defender for Office Plan 2 because it offers comprehensive
 
     
 
-   - 
+     
