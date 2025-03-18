@@ -20,3 +20,29 @@ I recommend Micorsoft Defender for Office Plan 2 because it offers comprehensive
 4. Threat Explorer: Provides visibility into threats and allows for proactive threat hunting.
 5. Automated Investigation and Response (AIR): Automates the investigation and remediation of threats.
 6. Attack Simulation Training: Helps train users to recognize and avoid phishing attempts.
+
+## Configuration of Policies:
+1. Enable Safe Attachments
+   - Go to Microsoft 365 defender portal (security.microsoft.com)
+     <img width="953" alt="m365 defender portal" src="https://github.com/user-attachments/assets/37122558-b847-4c1e-b1fc-f8c205bfce2a" />
+   - Click the dropdown arrow under "Email and Collaboration "Navigate to Policies & rules > Threat policies > Safe Attachments
+     <img width="956" alt="policies and rules" src="https://github.com/user-attachments/assets/613a606b-a83d-46f2-ac40-daf387bfacbc" />
+     <img width="959" alt="threat policies" src="https://github.com/user-attachments/assets/75fb2c31-65e5-4bce-9942-ce44aa00ffaa" />
+     <img width="959" alt="safe attachment" src="https://github.com/user-attachments/assets/1e091ee3-f743-47cc-9e4a-d5e6dd5b1d22" />
+   - Create a new policy and configure it to scan all messages and attachments
+     <img width="954" alt="new policy" src="https://github.com/user-attachments/assets/cd86db88-1f9f-4cee-87b1-c7b11cc7134a" />
+     <img width="959" alt="policy setting" src="https://github.com/user-attachments/assets/6ac90e87-77b6-40d2-8e77-8429bc361c85" />
+   - Save and apply the policy
+     <img width="956" alt="review policy" src="https://github.com/user-attachments/assets/3dd25e4f-2bc4-4f3c-8cff-3916e69b4360" />
+     <img width="946" alt="attachment policy done" src="https://github.com/user-attachments/assets/f773577d-128b-4907-bdb7-bf26c7a731e1" />
+     <img width="947" alt="safe attachement done" src="https://github.com/user-attachments/assets/a501b421-d8d5-4bbb-944b-8d71a2612d60" />
+
+
+
+
+
+
+
+    
+
+   - 
