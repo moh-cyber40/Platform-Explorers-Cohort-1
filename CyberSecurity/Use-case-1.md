@@ -49,6 +49,30 @@ I recommend Micorsoft Defender for Office Plan 2 because it offers comprehensive
      <img width="959" alt="safe link 6" src="https://github.com/user-attachments/assets/9bc3037f-5620-498d-a345-56335b0047af" />
      <img width="959" alt="safe link 7" src="https://github.com/user-attachments/assets/0708b835-78d8-4bf9-84a3-f4cc4ab460a8" />
 
+3. Configure anti-phishing policy:
+   - Navigate to Policies & rules > Threat policies > Anti-phishing
+     <img width="959" alt="anti phishing" src="https://github.com/user-attachments/assets/50c9ca08-c3e7-465a-bd00-6e8e6efcf504" />
+    - Create a new policy, enable impersonation protection, and apply it to all users
+      <img width="949" alt="anti phishing 2" src="https://github.com/user-attachments/assets/f0b9d509-f960-4d5f-bc72-91c1eb582db3" />
+      <img width="956" alt="anti phishing 3" src="https://github.com/user-attachments/assets/e1f5f992-d7cb-48a1-bed1-47ea8733145c" />
+      <img width="953" alt="anti phishing 4" src="https://github.com/user-attachments/assets/205c92d3-dfb1-48a5-bfff-58474b435579" />
+      <img width="959" alt="anti phishing 5" src="https://github.com/user-attachments/assets/e6e33d69-2249-40ac-9d28-ff5b3477950f" />
+      <img width="959" alt="anti phishing 6" src="https://github.com/user-attachments/assets/c49cf860-f557-4fd1-909e-d1703df00c43" />
+      <img width="959" alt="anti phishing 7" src="https://github.com/user-attachments/assets/5a911295-ca96-44b8-b3fc-c95f62724cc1" />
+      <img width="959" alt="anti phishing 8" src="https://github.com/user-attachments/assets/f6015495-f906-44e5-bd53-0bccae951d2e" />
+     - Save, review and apply the policy
+       <img width="959" alt="anti phishing 9" src="https://github.com/user-attachments/assets/81d1c1d4-8b66-4c53-aa95-e912358c8756" />
+       <img width="955" alt="anti phishing 10" src="https://github.com/user-attachments/assets/a70507b4-65c8-4588-86ab-db30515e2bfe" />
+
+
+
+
+
+
+
+
+ 
+
 
 
 
