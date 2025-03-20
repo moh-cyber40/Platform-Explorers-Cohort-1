@@ -64,6 +64,29 @@ I recommend Micorsoft Defender for Office Plan 2 because it offers comprehensive
        <img width="959" alt="anti phishing 9" src="https://github.com/user-attachments/assets/81d1c1d4-8b66-4c53-aa95-e912358c8756" />
        <img width="955" alt="anti phishing 10" src="https://github.com/user-attachments/assets/a70507b4-65c8-4588-86ab-db30515e2bfe" />
 
+4. Implement Attack Simulation Training:
+   - On your security page, go to Attack Simulation Training
+     <img width="955" alt="simulation" src="https://github.com/user-attachments/assets/fd6d65bb-7612-4a37-884a-2edf5e5cbd04" />
+    - click the simulation tab and "launch a simulation"
+      <img width="959" alt="simulation 2" src="https://github.com/user-attachments/assets/5e622f04-494a-4fa8-bd73-3110bb564b47" />
+    - Select a technique and click next, enter your simulation name
+      <img width="959" alt="simulation 3" src="https://github.com/user-attachments/assets/bb47fc50-0b1a-4416-98f1-f7a632f4874b" />
+     - Select a payload and login page
+       <img width="956" alt="simulation 4" src="https://github.com/user-attachments/assets/64261063-6816-4797-b6ec-cb603e5ec5b4" />
+      - Select targeted user(s)
+        <img width="959" alt="simulation 5" src="https://github.com/user-attachments/assets/f2086923-e445-48b3-ad6b-b89ec3dd0a2a" />
+       - Select end user notification
+        <img width="959" alt="simulation 6" src="https://github.com/user-attachments/assets/474fb922-eabf-4e59-8e68-7311e81b55b7" />
+       -Review simulation, submit and launch.
+        <img width="959" alt="simulation 7" src="https://github.com/user-attachments/assets/6f7ebfc0-f4f4-4149-9134-f2129c71e737" />
+ 
+ 
+ 
+ 
+ 
+ 
+
+
 
 
 
