@@ -18,8 +18,7 @@ I recommend Micorsoft Defender for Office Plan 2 because it offers comprehensive
 2. Safe Links: Protects users by checking URLs in emails and Office documents in real-time.
 3. Anti-Phishing Policies: Uses machine learning models to detect and block phishing attempts.
 4. Threat Explorer: Provides visibility into threats and allows for proactive threat hunting.
-5. Automated Investigation and Response (AIR): Automates the investigation and remediation of threats.
-6. Attack Simulation Training: Helps train users to recognize and avoid phishing attempts.
+5. Attack Simulation Training: Helps train users to recognize and avoid phishing attempts.
 
 ## Configuration of Policies:
 1. Enable Safe Attachments
