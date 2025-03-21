@@ -81,7 +81,41 @@ I recommend Micorsoft Defender for Office Plan 2 because it offers comprehensive
        - Simulation is in progress
         <img width="959" alt="simulation 8" src="https://github.com/user-attachments/assets/a692837d-5309-4be4-831b-9c50c01f73a0" />
 
- 
+## Potential Implications:
+   1. Positive Implications
+      - Enhanced Security: The new policies significantly reduce the risk of phishing attacks and data breaches
+      - User Awareness: Attack Simulation Training improves user awareness and reduces the likelihood of successful phishing attempts
+   2. Challenges and Considerations
+      - User Experience: Some users might find the additional security measures (e.g. attachment scanning) slightly intrusive. Clear communication about the importance of these measures can help mitigate any resistance
+      - False Positives: There might be instances of legitimate emails being flagged as suspicious. Regular monitoring and fine-tuning of policies can help minimize false positives
+
+By carefully considering these factors, Contoso can effectively enhance its email security and protect its users from fraudulent emails and phishing attacks.
+
+## Testing and Rollout Strategy:
+   - Test Group: Apply these policies to a small group of users first so as to ensure that the configurations work as expected without disrupting business operations
+   - Full Rollout: After successful testing, the policies should be rolled out to the entire organization to ensure comprehensive protection
+
+ ## Stakeholder Reports
+ To generate mail flow reports for stakeholders:
+    1. Access the Exchange Admin Center (EAC):
+       - Go to Microsoft 365 admin center and click "Reports" 
+       <img width="959" alt="reports" src="https://github.com/user-attachments/assets/46b76824-0283-498a-a971-c1bc731f7c88" />
+       - Click "exchange mail flow reports" it will take you to "Exchange Admin Center" at admin.exchange.microsoft.com
+       <img width="958" alt="reports 2" src="https://github.com/user-attachments/assets/a12b65d0-00c9-4ba3-b451-a7962ba8bf55" />
+       - Click on "mail flow" under "reports"
+       <img width="959" alt="reports 3" src="https://github.com/user-attachments/assets/1125bade-a602-4d4b-9dcb-0320e7f66bd7" />
+       - Select the desired report (e.g., inbound messages, outbound messages)
+       <img width="959" alt="reports 4" src="https://github.com/user-attachments/assets/c1832147-f7f2-4b25-b24a-c11b9fac845c" />
+       - Customize the report parameters and generate the report
+       <img width="959" alt="reports 5" src="https://github.com/user-attachments/assets/89fa7087-cd1b-4b37-8455-b25cf9641bd8" />
+       - Click on "Export" to generate[download report in excel format and share with stakeholders.
+
+
+
+
+
+       
+
  
  
  
