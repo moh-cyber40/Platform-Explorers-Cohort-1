@@ -76,8 +76,11 @@ I recommend Micorsoft Defender for Office Plan 2 because it offers comprehensive
         <img width="959" alt="simulation 5" src="https://github.com/user-attachments/assets/f2086923-e445-48b3-ad6b-b89ec3dd0a2a" />
        - Select end user notification
         <img width="959" alt="simulation 6" src="https://github.com/user-attachments/assets/474fb922-eabf-4e59-8e68-7311e81b55b7" />
-       -Review simulation, submit and launch.
+       - Review simulation, submit and launch.
         <img width="959" alt="simulation 7" src="https://github.com/user-attachments/assets/6f7ebfc0-f4f4-4149-9134-f2129c71e737" />
+       - Simulation is in progress
+        <img width="959" alt="simulation 8" src="https://github.com/user-attachments/assets/a692837d-5309-4be4-831b-9c50c01f73a0" />
+
  
  
  
