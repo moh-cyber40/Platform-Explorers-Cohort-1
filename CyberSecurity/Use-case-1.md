@@ -28,8 +28,8 @@ I recommend Micorsoft Defender for Office Plan 2 because it offers comprehensive
      <img width="956" alt="policies and rules" src="https://github.com/user-attachments/assets/613a606b-a83d-46f2-ac40-daf387bfacbc" />
      <img width="959" alt="threat policies" src="https://github.com/user-attachments/assets/75fb2c31-65e5-4bce-9942-ce44aa00ffaa" />
      <img width="959" alt="safe attachment" src="https://github.com/user-attachments/assets/1e091ee3-f743-47cc-9e4a-d5e6dd5b1d22" />
-   - Create a new policy and configure it to scan all messages and attachments
-     Give the policy a name which is compulsory and also a description which is optional
+   - I Created a new policy and configured it to scan all messages and attachments
+     Gave the policy a name which is compulsory and also a description which is optional
      <img width="954" alt="new policy" src="https://github.com/user-attachments/assets/cd86db88-1f9f-4cee-87b1-c7b11cc7134a" />
   
      here, I added required user
