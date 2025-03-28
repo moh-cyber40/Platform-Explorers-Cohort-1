@@ -111,6 +111,12 @@ Prepare a detailed report summarizing the research and findings, including the b
   <img width="958" alt="ios 2" src="https://github.com/user-attachments/assets/6bb490dd-9beb-4adc-be17-4d1ccefc3047" />
   I enabled passcode
   <img width="959" alt="ios 3" src="https://github.com/user-attachments/assets/8d513f38-2658-4b5c-bb30-bcc4d53c08ab" />
+  I added all devices to the group (Included group)
+  <img width="959" alt="ios 4" src="https://github.com/user-attachments/assets/ac65ac8e-870a-4ec0-8e45-0fee4c2e8b93" />
+  The policy was reviewed and created.
+  <img width="959" alt="ios5" src="https://github.com/user-attachments/assets/62c46221-ce3a-4146-9fb6-b2cf0b90a117" />
+
+
 
 
 
