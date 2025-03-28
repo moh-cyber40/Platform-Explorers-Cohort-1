@@ -116,6 +116,11 @@ Prepare a detailed report summarizing the research and findings, including the b
   The policy was reviewed and created.
   <img width="959" alt="ios5" src="https://github.com/user-attachments/assets/62c46221-ce3a-4146-9fb6-b2cf0b90a117" />
 
+## Configuration of Microsft Defender for Endpoint
+
+# Windows Devices
+  - 
+
 
 
 
