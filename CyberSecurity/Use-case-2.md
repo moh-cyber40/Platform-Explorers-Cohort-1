@@ -83,4 +83,43 @@ To provide a comprehensive guide, include sample policies and screenshots of the
 
 Prepare a detailed report summarizing the research and findings, including the benefits of the proposed policies, potential challenges, and recommendations for successful implementation. This report should serve as a reference for Contoso's IT team and stakeholders. 
 
+
+## Configuration of Device Compliance Policies
+
+## Steps in configuring windows devices
+- Logged in to Microsoft Intune admin center at (intune.microsoft.com) as shown below
+  <img width="959" alt="windows" src="https://github.com/user-attachments/assets/195414a9-7d19-4d90-8780-da4faef3d292" />
+- Navigated to "Devices"
+  <img width="957" alt="windows 1" src="https://github.com/user-attachments/assets/2a44581e-9027-46dd-b031-423f1817b4c7" />
+  Under "compliance" I selected "policies" and clicked on "create policy"
+  <img width="957" alt="windows 2" src="https://github.com/user-attachments/assets/535ca568-8c1f-4130-bba8-6221835d840e" />
+  Under platform, I selected "windows 10 and later" and hit the create button
+  <img width="950" alt="windows 3" src="https://github.com/user-attachments/assets/9ea2bfbf-a589-440d-9190-890a22ddb645" />
+  I gave the policy a name as shown below
+  <img width="956" alt="windows 4" src="https://github.com/user-attachments/assets/967e3f29-6723-4b46-a0fe-cd5e50aeb497" />
+  Under compliance, I configured the policy to require bitlocker, secure boot, and code integrity. I also set the minimum OS version as windows 10 and maximum as windows 11 as shown below
+  <img width="959" alt="windows 5" src="https://github.com/user-attachments/assets/b54a7730-91f6-4c4c-9059-8950c9b1579d" />
+  I added all devices to be compliant to this policy
+  <img width="958" alt="windows 6" src="https://github.com/user-attachments/assets/7c7925ff-e9a4-401c-ac33-143ccb657e65" />
+  I reviewed and created the policy
+  <img width="956" alt="windows 7" src="https://github.com/user-attachments/assets/ece089ea-ee25-4c32-a908-78b413f82e33" />
+
+## Steps in configuring iOS devices
+- Under Devices go to compliance and create policy. I selected iOS/iPadOS under "platform"
+  <img width="959" alt="ios" src="https://github.com/user-attachments/assets/7cab9429-dcc1-45ff-8de3-0c7beb4854a3" />
+  I gave my policy a name as shown below
+  <img width="958" alt="ios 2" src="https://github.com/user-attachments/assets/6bb490dd-9beb-4adc-be17-4d1ccefc3047" />
+  I enabled passcode
+  <img width="959" alt="ios 3" src="https://github.com/user-attachments/assets/8d513f38-2658-4b5c-bb30-bcc4d53c08ab" />
+
+
+
+
+
+
+  
+
+
+
+
  
