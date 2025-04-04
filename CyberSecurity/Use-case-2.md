@@ -119,7 +119,55 @@ Prepare a detailed report summarizing the research and findings, including the b
 ## Configuration of Microsft Defender for Endpoint
 
 # Windows Devices
-  - 
+  - After logging to Microsoft Intune Admin Center, navigate to "Endpoint Security" and click antivirus
+    <img width="959" alt="endpoint" src="https://github.com/user-attachments/assets/776c9359-8131-4887-8371-224faa96b0be" />
+  - Select Create Policy and choose the appropriate platform and profile as shown below. Click "create"
+    <img width="956" alt="endpoint 1" src="https://github.com/user-attachments/assets/d6a77faa-2f76-453a-9589-572a1f883860" />
+  - Gave the policy a name and move to configuration settings.
+    <img width="953" alt="endpoint 2" src="https://github.com/user-attachments/assets/46db9723-c22f-4a0a-80b6-feac1842043d" />
+    <img width="955" alt="endpoint 3" src="https://github.com/user-attachments/assets/11b122b7-8096-41bc-b8ca-c2f668c5cd17" />
+    <img width="959" alt="endpoint 4" src="https://github.com/user-attachments/assets/8fe51f01-dccf-4e72-ac56-48fddede226f" />
+    <img width="950" alt="endpoint 5" src="https://github.com/user-attachments/assets/7d6709fc-8a88-48cf-b8fb-655c148a2ef4" />
+    <img width="959" alt="endpoint 6" src="https://github.com/user-attachments/assets/39a9f521-c76d-49de-9c97-8450095a98c1" />
+    <img width="958" alt="endpoint 7" src="https://github.com/user-attachments/assets/39a0fe9d-ed3e-4adb-afd6-b2e788622fc1" />
+  - Reviewed the created policy and save.
+    <img width="959" alt="endpoint 8" src="https://github.com/user-attachments/assets/5df7786d-0db8-4185-86b0-7ff08c127d8b" />
+
+## Steps in Setting up attack surface reduction rules
+
+- On Microsoft Intune Admin Center, navigate to endpoint security and select "Attack Sueface Reduction" and create policy.
+  <img width="955" alt="endpoint 9" src="https://github.com/user-attachments/assets/357b1618-ebd2-43c1-a067-c3f81451ec67" />
+- Select the appropriate platform and profile. Then select create.
+  <img width="957" alt="endpoint 10" src="https://github.com/user-attachments/assets/adc976ee-016e-451c-a1ca-44b3223d91c4" />
+- Gave the policy a name
+  <img width="956" alt="endpoint 11" src="https://github.com/user-attachments/assets/25d9f87a-1c50-4fdd-93f7-86e7d8389da0" />
+- Review the policy and save.
+  <img width="952" alt="endpoint 12" src="https://github.com/user-attachments/assets/1189cd28-4b5b-4082-92b5-53792b8ee96e" />
+
+## Steps in Configuring endpoint detection and response (EDR) policy
+ - On Microsoft Intune Admin Center, navigate to endpoint security and select "Endpoint detection and response" and create new policy.
+   <img width="959" alt="endpoint 13" src="https://github.com/user-attachments/assets/2be2a3a3-13ed-4765-b35e-614a3690f50f" />
+ - Select the appropriate platform and profile. Then select create
+   <img width="954" alt="endpoint 14" src="https://github.com/user-attachments/assets/e3a4edc6-6e99-411d-adb7-1db2ec4ce2af" />
+ - Gave the policy a name
+   <img width="959" alt="endpoint 15" src="https://github.com/user-attachments/assets/2f000f7e-0203-4377-af39-83db606e4790" />
+   
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
