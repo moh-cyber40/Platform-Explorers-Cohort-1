@@ -141,7 +141,7 @@ Prepare a detailed report summarizing the research and findings, including the b
   <img width="957" alt="endpoint 10" src="https://github.com/user-attachments/assets/adc976ee-016e-451c-a1ca-44b3223d91c4" />
 - Gave the policy a name
   <img width="956" alt="endpoint 11" src="https://github.com/user-attachments/assets/25d9f87a-1c50-4fdd-93f7-86e7d8389da0" />
-- Review the policy and save.
+- Reviewed the policy and save.
   <img width="952" alt="endpoint 12" src="https://github.com/user-attachments/assets/1189cd28-4b5b-4082-92b5-53792b8ee96e" />
 
 ## Steps in Configuring endpoint detection and response (EDR) policy
@@ -151,6 +151,16 @@ Prepare a detailed report summarizing the research and findings, including the b
    <img width="954" alt="endpoint 14" src="https://github.com/user-attachments/assets/e3a4edc6-6e99-411d-adb7-1db2ec4ce2af" />
  - Gave the policy a name
    <img width="959" alt="endpoint 15" src="https://github.com/user-attachments/assets/2f000f7e-0203-4377-af39-83db606e4790" />
+ - Setup configuration
+   <img width="955" alt="endpoint 16" src="https://github.com/user-attachments/assets/9ee622db-1bd1-4afb-a370-6303278fa35a" />
+ - Reviewed the policy and save.
+   <img width="957" alt="endpoint 17" src="https://github.com/user-attachments/assets/cf08e054-b63e-404b-9d1b-56a9242b0326" />
+
+# iOS Devices
+
+
+   
+
    
 
    
