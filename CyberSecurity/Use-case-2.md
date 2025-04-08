@@ -156,7 +156,47 @@ Prepare a detailed report summarizing the research and findings, including the b
  - Reviewed the policy and save.
    <img width="957" alt="endpoint 17" src="https://github.com/user-attachments/assets/cf08e054-b63e-404b-9d1b-56a9242b0326" />
 
-# iOS Devices
+## iOS Devices
+
+# Set Up Jailbreak Detection
+ - After logging to Microsoft Intune Admin Center, navigate to "Devices" and click "Compliance"
+   <img width="959" alt="jailbreak" src="https://github.com/user-attachments/assets/6061a887-52dd-4abc-9d57-a0b5f1aabdfe" />
+ - Click on "create policy" and select appropriate platform.
+   <img width="956" alt="jailbreak 1" src="https://github.com/user-attachments/assets/106d64d7-3e57-4412-acc0-77ca91366819" />
+ - Gave the policy a name.
+   <img width="654" alt="jailbreak 2" src="https://github.com/user-attachments/assets/4228b70a-1c59-494f-b886-f5ae63991592" />
+ - Under Compliance settings, navigate to device health and set jailbroken devices to block as shown below.
+   <img width="646" alt="jailbreak 3" src="https://github.com/user-attachments/assets/adceb707-11ac-4f36-912b-7304c3d43f85" />
+ - Add necessary users and/or groups as the case may be.
+   <img width="701" alt="jailbreak 4" src="https://github.com/user-attachments/assets/3d77cb5d-ec9c-4e6d-9c80-1346b1b0acca" />
+ - Save policy
+   <img width="728" alt="jailbreak 5" src="https://github.com/user-attachments/assets/c669fa6f-0d2a-4f19-bedc-36afb0f5f15b" />
+
+# Integrate with Intune for device compliance and Conditional access policies
+ - Sign in to the Microsoft Entra admin center.
+   <img width="959" alt="entra" src="https://github.com/user-attachments/assets/e4dbbee2-eea8-4eff-9d8f-238c1e319db2" />
+ - Navigate to Protection > Conditional Access > Policies.
+   <img width="958" alt="entra 1" src="https://github.com/user-attachments/assets/0046f237-521a-4de2-8c91-6e67ea0c5e57" />
+ - Click on new policy and give the policy a name. Iclude users/groups
+   <img width="520" alt="entra 2" src="https://github.com/user-attachments/assets/458975bf-a4f0-4c7b-b99f-1f27905c222e" />
+ - Navigate to conditions and configure the platform to only iOS
+   <img width="959" alt="entra 3" src="https://github.com/user-attachments/assets/f786103e-4775-41ce-907c-677e7cd489c5" />
+ - Under Access controls, select Grant and then Require device to be marked as compliant.
+   <img width="956" alt="entra 4" src="https://github.com/user-attachments/assets/b3d07d2d-24ed-4254-8dab-f59e8303ab62" />
+ - Click Create to save the policy
+
+
+
+   
+
+
+
+
+
+
+
+
+   
 
 
    
