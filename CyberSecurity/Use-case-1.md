@@ -16,7 +16,6 @@ Microsoft 365 E5 is the most suitable plan for Contoso. It includes advanced sec
 - Microsoft Defender for Office 365: Provides protection against phishing, business email compromise, and other advanced threats.
 - Advanced Threat Protection (ATP): Includes Safe Links and Safe Attachments to protect against malicious links and attachments.
 - Office 365 Threat Intelligence: Offers insights and analysis to help identify and respond to threats.
-- Data Loss Prevention (DLP): Helps protect sensitive information from being shared inappropriatel
 
 ## Features to Mitigate Fraudulent Emails:
 1. Safe Attachments: Scans all email attachments for malware and other malicious content.
