@@ -11,7 +11,12 @@ To seek advice from a security analyst on the resolution of the fraudulent email
 Also, the analyst should advise on how to get stakeholder reports of mail flow to and from the organization. 
 
 ## Recommended Microsoft 365 Plan:
-I recommend Micorsoft Defender for Office Plan 2 because it offers comprehensive protection against advanced threats, including phishing, malware, and business email compromise. It also includes advanced threat hunting, automation, cross-domain XDR capabilities.
+Microsoft 365 E5 is the most suitable plan for Contoso. It includes advanced security features that can help mitigate the risk of fraudulent emails and phishing attacks. Key features include:
+
+- Microsoft Defender for Office 365: Provides protection against phishing, business email compromise, and other advanced threats.
+- Advanced Threat Protection (ATP): Includes Safe Links and Safe Attachments to protect against malicious links and attachments.
+- Office 365 Threat Intelligence: Offers insights and analysis to help identify and respond to threats.
+- Data Loss Prevention (DLP): Helps protect sensitive information from being shared inappropriatel
 
 ## Features to Mitigate Fraudulent Emails:
 1. Safe Attachments: Scans all email attachments for malware and other malicious content.
