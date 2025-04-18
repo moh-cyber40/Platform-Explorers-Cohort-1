@@ -20,7 +20,7 @@ Streamlined Processes: Simplify the process of managing access to multiple resou
 Regular Access Reviews: Implement a process to regularly review and remove access when a user's job role changes or they leave the organization. 
 
 
-# Automated Access Management
+### Automated Access Management
 - Logged in to the Microsoft Entra ID Governance portal
   <img width="947" alt="role" src="https://github.com/user-attachments/assets/43468d4e-4c54-4716-a605-7ee79e1737bf" />
   
@@ -31,8 +31,46 @@ Regular Access Reviews: Implement a process to regularly review and remove acces
   <img width="955" alt="role 2" src="https://github.com/user-attachments/assets/22ee55bb-a33a-4726-88c0-8192f8c1c418" />
   <img width="949" alt="role 3" src="https://github.com/user-attachments/assets/8dc7d3cc-6cf0-4196-adfa-eb3c5fd96af4" />
   
-- Gave a name and description to the access package.
-  <img width="959" alt="role 4" src="https://github.com/user-attachments/assets/778cd97e-329f-4c2d-9cb4-3a84bc16befe" />
+- Gave a name and description to the access package, and also chose the approriate catalog.
+  <img width="607" alt="role 4" src="https://github.com/user-attachments/assets/fcd0060e-77c3-44ac-b589-2d44475dd18a" />
+
+ - Navigated to resource roles to choose appropriate "groups and teams"
+   <img width="729" alt="group" src="https://github.com/user-attachments/assets/dcfddeed-013e-4acc-9c16-260a68daabfa" />
+
+ - Navigated to Requests, made sure only users in my directory can request access.
+   <img width="670" alt="role 5" src="https://github.com/user-attachments/assets/0c53ad31-ccc1-4b83-af35-97bd5d4a317d" />
+   <img width="644" alt="role 6" src="https://github.com/user-attachments/assets/f2d855b2-2d5e-4872-81d7-4d028af8be91" />
+
+ - For the approval, I enabled 3 stages for the approval and approval must be made within 7 days. First approver is the manager approval and Muhammad is assigned for that role.
+   <img width="694" alt="role 7" src="https://github.com/user-attachments/assets/7389636e-8a23-49e5-a77b-3a55b13d41d2" />
+   Second approval is assigned to Chioma
+   <img width="646" alt="role 8" src="https://github.com/user-attachments/assets/d5f61aea-a395-411c-b8f5-8815b354b6f8" />
+   Third approval is assigned to Denis
+   <img width="643" alt="role 9" src="https://github.com/user-attachments/assets/c289034a-701c-47e5-a684-27fde96246a7" />
+
+ - Navigated to Requestor information where I set up a question for the requestor which required a short answer.
+   <img width="732" alt="role 10" src="https://github.com/user-attachments/assets/0c28e8ad-b4e8-4006-8dd8-2e442fa99a27" />
+
+ - Navigated to Lifecycle where I set the number of days it will take for access to the access package before it expires.
+   <img width="744" alt="role 11" src="https://github.com/user-attachments/assets/fa7258cf-0a6c-44d1-aadf-e846b58d1996" />
+
+ - For access reviews. The review frequency is set is to be bi-annually and the number of days is set to be 90 days.
+   <img width="661" alt="role 12" src="https://github.com/user-attachments/assets/ac7fd510-6ad2-4cb0-a0d7-87b24015b686" />
+   <img width="529" alt="reviewer 1" src="https://github.com/user-attachments/assets/534f5250-1a14-42e2-8403-ec047cee3ae5" />
+
+ - Reviewed the access package and create.
+   <img width="775" alt="review + create" src="https://github.com/user-attachments/assets/0afec577-95da-4dc7-ac01-6e2f8073743b" />
+
+
+  
+
+
+
+
+
+
+
+
   
 
 
