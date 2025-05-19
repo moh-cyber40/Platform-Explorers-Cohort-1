@@ -20,7 +20,8 @@ Streamlined Processes: Simplify the process of managing access to multiple resou
 Regular Access Reviews: Implement a process to regularly review and remove access when a user's job role changes or they leave the organization. 
 
 
-### Configuration
+
+## Configuration
 - Logged in to the Microsoft Entra ID Governance portal
   <img width="947" alt="role" src="https://github.com/user-attachments/assets/43468d4e-4c54-4716-a605-7ee79e1737bf" />
   
@@ -50,7 +51,7 @@ Regular Access Reviews: Implement a process to regularly review and remove acces
  - Navigated to Requestor information where I set up a question for the requestor which required a short answer.
    <img width="732" alt="role 10" src="https://github.com/user-attachments/assets/0c28e8ad-b4e8-4006-8dd8-2e442fa99a27" />
 
- - Navigated to Lifecycle where I set the number of days it will take for access to the access package before it expires.
+ - Navigated to Lifecycle where I set the number of days it will take for access to the access package before it expires. 
    <img width="744" alt="role 11" src="https://github.com/user-attachments/assets/fa7258cf-0a6c-44d1-aadf-e846b58d1996" />
 
  - For access reviews. The review frequency is set is to be bi-annually and the number of days is set to be 90 days.
