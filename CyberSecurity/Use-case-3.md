@@ -20,7 +20,7 @@ Streamlined Processes: Simplify the process of managing access to multiple resou
 Regular Access Reviews: Implement a process to regularly review and remove access when a user's job role changes or they leave the organization. 
 
 
-### Automated Access Management
+### Configuration
 - Logged in to the Microsoft Entra ID Governance portal
   <img width="947" alt="role" src="https://github.com/user-attachments/assets/43468d4e-4c54-4716-a605-7ee79e1737bf" />
   
@@ -41,12 +41,11 @@ Regular Access Reviews: Implement a process to regularly review and remove acces
    <img width="670" alt="role 5" src="https://github.com/user-attachments/assets/0c53ad31-ccc1-4b83-af35-97bd5d4a317d" />
    <img width="644" alt="role 6" src="https://github.com/user-attachments/assets/f2d855b2-2d5e-4872-81d7-4d028af8be91" />
 
- - For the approval, I enabled 3 stages for the approval and approval must be made within 7 days. First approver is the manager approval and Muhammad is assigned for that role.
-   <img width="694" alt="role 7" src="https://github.com/user-attachments/assets/7389636e-8a23-49e5-a77b-3a55b13d41d2" />
+ - For the approval, I enabled 2 stages for the approval and approval must be made within 7 days. First approver is the manager approval, Muhammad is assigned for that role.
+   <img width="771" alt="stages of approval" src="https://github.com/user-attachments/assets/7b080321-946c-4fa8-a039-98dd844f3862" />
+
    Second approval is assigned to Chioma
    <img width="646" alt="role 8" src="https://github.com/user-attachments/assets/d5f61aea-a395-411c-b8f5-8815b354b6f8" />
-   Third approval is assigned to Denis
-   <img width="643" alt="role 9" src="https://github.com/user-attachments/assets/c289034a-701c-47e5-a684-27fde96246a7" />
 
  - Navigated to Requestor information where I set up a question for the requestor which required a short answer.
    <img width="732" alt="role 10" src="https://github.com/user-attachments/assets/0c28e8ad-b4e8-4006-8dd8-2e442fa99a27" />
@@ -60,6 +59,13 @@ Regular Access Reviews: Implement a process to regularly review and remove acces
 
  - Reviewed the access package and create.
    <img width="775" alt="review + create" src="https://github.com/user-attachments/assets/0afec577-95da-4dc7-ac01-6e2f8073743b" />
+
+## Testing
+In testing this configuration, a team member (Denis) was asked to request for  approval so as to test the configuration. He requested for approval and the request went to the first approver (Muhammad) who approved it. After the first stage of approver, the request moved to the second approver (Chioma) who also approved it.
+   <img width="418" alt="denis approval request 2" src="https://github.com/user-attachments/assets/ec10aed8-a574-4aec-a918-b9d141e826fb" />
+
+Image below shows the approval history
+    <img width="952" alt="approval history" src="https://github.com/user-attachments/assets/dfd39c73-f244-4f14-bb81-3e500c975a9a" />
 
 
   
